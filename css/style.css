@@ -390,7 +390,6 @@
   
 
           .skillGrid {
-            background-color: #FFFBF5;
             grid-template-columns: 1fr;
             grid-gap: 40px;
             padding-top: 30px;
